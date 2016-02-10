@@ -1,2 +1,3 @@
-# my-first-repo
-Hello new Github thing!
+# Hello new Github thing!
+
+This stuff is great.
